@@ -1,0 +1,21 @@
+.navbar--block {
+    background-color: black;
+    height: 55px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.right--section{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: -webkit-fill-available;
+}
+
+.right--section div a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    letter-spacing: 0.5px;
+}

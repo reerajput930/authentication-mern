@@ -1,0 +1,46 @@
+.quote--block h1 {
+
+    text-align: center;
+
+}
+
+.quote--block h2 {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.quote--block button {
+    width: 50%;
+    margin: 6px;
+    padding: 11px;
+    border-radius: 10px;
+    border: none;
+    background-color: #183a1d;
+    color: white;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+}
+
+.quote--block input {
+
+    width: 50%;
+    margin: 6px;
+    padding: 11px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.quote--block form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: -webkit-fill-available;
+    margin-top: 20px;
+}
+.user--detail h3{
+    text-align: center;
+}
